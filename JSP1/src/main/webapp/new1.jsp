@@ -1,3 +1,3 @@
 <%@page import="java.util.Date"%>
 
-today date is:<%=new Date() %> srilanka
+today date is:<%=new Date() %> iran

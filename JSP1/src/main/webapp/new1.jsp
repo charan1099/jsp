@@ -1,3 +1,3 @@
 <%@page import="java.util.Date"%>
 
-today date is:<%=new Date() %> usa
+today date is:<%=new Date() %> china
